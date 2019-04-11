@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         //pull test
+        //ㄹ어나ㅣㄹㅇㄴ
     }
 
 
