@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         //pull test
         //ㄹ어나ㅣㄹㅇㄴ
+        //ㅓㅏㅓㅏㅓ
     }
 
 
