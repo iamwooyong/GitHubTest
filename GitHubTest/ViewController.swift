@@ -13,10 +13,12 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        //push test
-        //fldsjfklajs
+        //pull test
     }
 
 
+    func test() {
+        print("ahahahahah")
+    }
 }
 
